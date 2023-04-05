@@ -159,4 +159,4 @@ app.put('/updatedata/:id',(request,response)=>{
 })
 
 
-app.listen(3002 ,()=>{console.log('Server running on 3002')});
+app.listen(3000 ,()=>{console.log('Server running on 3002')});
